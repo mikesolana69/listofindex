@@ -54,10 +54,6 @@ R69XK_H3
 Radeon (TM) RX 580 Graphics
 Standard VGA Graphics Adapter
 UKBEHH_S
-Virtual Desktop Monitor
-VirtualBox Graphics Adapter
-VirtualBox Graphics Adapter (WDDM)
-VMware SVGA 3D
 VO5V631D
 W1TO6L3T
 W29FK1O1
@@ -73,7 +69,6 @@ _G31E46N
 _PHLNYGR
 _T9W5LHO
 Стандартный VGA графический адаптер
-
 6F44ADR7
 VM64TTFX
 WKMZ6LN2
@@ -83,7 +78,6 @@ S6DZU3GA
 74ZZCY7A
 HASZN_3F
 X5ZW15TV
-
 HV61HV5F
 TTXRONXD
 AFRBR6TC
