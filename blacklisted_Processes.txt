@@ -2,7 +2,6 @@ httpdebuggerui
 wireshark
 fiddler
 regedit
-vboxservice
 df5serv
 processhacker
 vboxtray
@@ -11,7 +10,6 @@ vmwaretray
 ida64
 ollydbg
 pestudio
-vmwareuser
 vgauthservice
 vmacthlp
 x96dbg
