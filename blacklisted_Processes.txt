@@ -4,9 +4,6 @@ fiddler
 regedit
 df5serv
 processhacker
-vboxtray
-vmtoolsd
-vmwaretray
 ida64
 ollydbg
 pestudio
